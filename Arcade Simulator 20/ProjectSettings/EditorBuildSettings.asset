@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Content/Lobby/Scenes/TITLE.unity
+    guid: 9ca5130fd312aa84ba223bc445abea2a
+  - enabled: 1
+    path: Assets/Content/Lobby/Scenes/Lobby.unity
+    guid: 53f822ad4d781e54887c03bc9bdc6fee
+  - enabled: 1
+    path: Assets/Content/Lobby/Scenes/Disconnected.unity
+    guid: 497f3d5ab6c9f1744a267ad499971386
+  - enabled: 1
+    path: Assets/Content/Lobby/Scenes/Arcade.unity
+    guid: 67f77cd279f72c1429d66e5b3cede978
+  - enabled: 1
+    path: Assets/Content/Games/AirHockey/Scenes/AirHockey.unity
+    guid: 517ef51d227d40a4a8265b1e822c31e3
+  - enabled: 1
+    path: Assets/Content/Games/AirHockey/Scenes/AirHockey_AI.unity
+    guid: 8cf9b0963fdb56146960c998ca5d88a2
+  - enabled: 1
+    path: Assets/Content/Games/AirHockey/Scenes/AirHockey_Server.unity
+    guid: b8ef24e0ec2616745a2e0c448a6cd638
+  - enabled: 1
+    path: Assets/Content/Games/Boxing/Scenes/Boxing.unity
+    guid: c6debb48fc923244e8f91fca81dfc87b
+  - enabled: 1
+    path: Assets/Content/Games/ObstacleRace/Scenes/ObstacleRace.unity
+    guid: 593ba81f864d48940b9ddd83c8dd9b84
+  - enabled: 1
+    path: Assets/Content/Games/ObstacleRace/Scenes/ranking.unity
+    guid: 15a450759e64af4489bfc2361b9d62bb
+  - enabled: 1
+    path: Assets/Content/Games/ObstacleRace/Scenes/volcano.unity
+    guid: 1feebbdda25a0f948b036dfa7c7086e6
+  - enabled: 1
+    path: Assets/Content/Games/ShootingGame/Scenes/ShootingGame.unity
+    guid: 79a435bd7ef807b40b3ecf6091057c02
+  - enabled: 1
+    path: Assets/Content/Games/ShootingGame/Scenes/end.unity
+    guid: db774b824eec7ff43b512ec5e64af7ed
+  - enabled: 1
+    path: Assets/Content/Games/ShootingGame/Scenes/game.unity
+    guid: b6eaa0a5d50eff54c8b97fa65e5ec8ed
+  - enabled: 1
+    path: Assets/Content/Games/ShootingGame/Scenes/guide.unity
+    guid: 1afb3e2f8edef454e946dec474ede13d
+  - enabled: 1
+    path: Assets/Content/Games/Tetris/TETRIS.unity
+    guid: 2ae4a85d2a4dd9a4fb9dbc8cc66612c1
+  - enabled: 1
+    path: Assets/Content/Games/Tetris/TETRIS_Game.unity
+    guid: b2a4288b950e45343a7a9d89f01847d6
+  m_configObjects: {}
